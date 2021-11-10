@@ -1,0 +1,20 @@
+{
+  "streamers": [
+    "TolaniWitchVT"
+  ],
+  "twitter_users": [
+    "tolaniwitchvt"
+  ],
+  "welcome_channel": 788223353109741578,
+  "twitter_channel": 884308608395915304,
+  "twitch_channel": 788277670198771762,
+  "client_id": "07gw56jhsrizble8rieamvhtiepssn",
+  "client_secret": "fb2o83ozxg2ywo8ipixujhluwprbb7",
+  "api_token": "mD5voyirCNFQfWiWaPYMO1edI",
+  "api_secret": "901tFlzqT6iSry7CgfF0MbpKYjKJY7vVsIZCkCJiqwBv0oMubw",
+  "twitter_access_token": "1130725593870458880-9J73vweTRn3xmTt9pWV9QnVOORemiA",
+  "access_secret": "qXzVJ6Ybb5ivnC1PP7g5tU0YEzr7wM2VfOUs5fmuim2iq",
+  "twitch_access_token": "yrczs87h0tc75q0qwkenx65x5skbe8",
+  "informed": {},
+  "latest": {}
+}
